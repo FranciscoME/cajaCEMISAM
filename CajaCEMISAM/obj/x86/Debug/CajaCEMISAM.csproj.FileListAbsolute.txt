@@ -1,0 +1,156 @@
+d:\users\admin\documents\visual studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.exe
+d:\users\admin\documents\visual studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.pdb
+d:\users\admin\documents\visual studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\admin\documents\visual studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Form1.resources
+d:\users\admin\documents\visual studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Properties.Resources.resources
+d:\users\admin\documents\visual studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\users\admin\documents\visual studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\users\admin\documents\visual studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.exe
+d:\users\admin\documents\visual studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.pdb
+d:\users\admin\documents\visual studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\bin\Debug\bdcaja.accdb
+d:\users\admin\documents\visual studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.exe.config
+d:\users\admin\documents\visual studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.CrearPaciente.resources
+D:\Users\admin\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.CrearRecibo.resources
+D:\Users\admin\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\RdlCompile.cache
+D:\Users\admin\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\RdlCompile.compiled
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.exe.config
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.exe
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.pdb
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\bin\Debug\bdcaja.accdb
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.exe
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.pdb
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.csprojResolveAssemblyReference.cache
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Form1.resources
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.CrearPaciente.resources
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.CrearRecibo.resources
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Properties.Resources.resources
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.csproj.GenerateResource.Cache
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\RdlCompile.cache
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\RdlCompile.compiled
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.VistaRecibo.resources
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.ModificarPaciente.resources
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.CostosCaja.resources
+D:\Users\admin\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.CostosCaja.resources
+D:\Users\admin\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.ModificarPaciente.resources
+D:\Users\admin\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.VistaRecibo.resources
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.PacientesForm.resources
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.PrincipalForm.resources
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.DatosCorteCaja.resources
+D:\Users\usuario\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.VistaCorteCaja.resources
+D:\Users\admin\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.DatosCorteCaja.resources
+D:\Users\admin\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.PacientesForm.resources
+D:\Users\admin\Documents\Visual Studio 2010\Projects\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.VistaCorteCaja.resources
+C:\Users\usuario\Desktop\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.exe.config
+C:\Users\usuario\Desktop\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.exe
+C:\Users\usuario\Desktop\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.pdb
+C:\Users\usuario\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Form1.resources
+C:\Users\usuario\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.CrearPaciente.resources
+C:\Users\usuario\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.CrearRecibo.resources
+C:\Users\usuario\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.ModificarPaciente.resources
+C:\Users\usuario\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.PacientesForm.resources
+C:\Users\usuario\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.VistaCorteCaja.resources
+C:\Users\usuario\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.VistaRecibo.resources
+C:\Users\usuario\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Properties.Resources.resources
+C:\Users\usuario\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\RdlCompile.cache
+C:\Users\usuario\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\RdlCompile.compiled
+C:\Users\usuario\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.exe
+C:\Users\usuario\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.pdb
+C:\Users\admin\Desktop\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.exe.config
+C:\Users\admin\Desktop\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.exe
+C:\Users\admin\Desktop\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.pdb
+C:\Users\admin\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Form1.resources
+C:\Users\admin\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.CrearPaciente.resources
+C:\Users\admin\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.CrearRecibo.resources
+C:\Users\admin\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.ModificarPaciente.resources
+C:\Users\admin\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.PacientesForm.resources
+C:\Users\admin\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.VistaCorteCaja.resources
+C:\Users\admin\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.VistaRecibo.resources
+C:\Users\admin\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Properties.Resources.resources
+C:\Users\admin\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\RdlCompile.cache
+C:\Users\admin\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\RdlCompile.compiled
+C:\Users\admin\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.exe
+C:\Users\admin\Desktop\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.pdb
+C:\Users\usuario\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.exe.config
+C:\Users\usuario\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.exe
+C:\Users\usuario\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.pdb
+C:\Users\usuario\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Form1.resources
+C:\Users\usuario\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.CrearPaciente.resources
+C:\Users\usuario\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.CrearRecibo.resources
+C:\Users\usuario\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.ModificarPaciente.resources
+C:\Users\usuario\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.PacientesForm.resources
+C:\Users\usuario\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.VistaCorteCaja.resources
+C:\Users\usuario\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.VistaRecibo.resources
+C:\Users\usuario\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Properties.Resources.resources
+C:\Users\usuario\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\RdlCompile.cache
+C:\Users\usuario\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\RdlCompile.compiled
+C:\Users\usuario\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.exe
+C:\Users\usuario\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.pdb
+J:\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.exe.config
+J:\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.exe
+J:\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.pdb
+C:\Users\admin\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.exe.config
+C:\Users\admin\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.exe
+C:\Users\admin\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.pdb
+C:\Users\admin\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Form1.resources
+C:\Users\admin\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.CrearPaciente.resources
+C:\Users\admin\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.CrearRecibo.resources
+C:\Users\admin\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.ModificarPaciente.resources
+C:\Users\admin\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.PacientesForm.resources
+C:\Users\admin\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.VistaCorteCaja.resources
+C:\Users\admin\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.VistaRecibo.resources
+C:\Users\admin\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Properties.Resources.resources
+C:\Users\admin\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\RdlCompile.cache
+C:\Users\admin\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\RdlCompile.compiled
+C:\Users\admin\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.exe
+C:\Users\admin\Desktop\CAJA CASI CASI\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.pdb
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.exe.config
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.exe.manifest
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.application
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.exe
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.pdb
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Form1.resources
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.CrearPaciente.resources
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.CrearRecibo.resources
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.ModificarPaciente.resources
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.PacientesForm.resources
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.VistaCorteCaja.resources
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.VistaRecibo.resources
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Properties.Resources.resources
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\RdlCompile.cache
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\RdlCompile.compiled
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.exe.manifest
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.application
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.exe
+C:\Users\admin\Desktop\CAJA CASI CASI install\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.pdb
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.exe.config
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.exe
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.pdb
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.exe.manifest
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.application
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.exe
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\bin\Debug\CajaCEMISAM.pdb
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.csprojResolveAssemblyReference.cache
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Form1.resources
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.CrearPaciente.resources
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.CrearRecibo.resources
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.ModificarPaciente.resources
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.PacientesForm.resources
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.VistaCorteCaja.resources
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Formularios.VistaRecibo.resources
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.Properties.Resources.resources
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.csproj.GenerateResource.Cache
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\RdlCompile.cache
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\RdlCompile.compiled
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.exe.manifest
+D:\Users\Francisco\Documents\CAJA final\CajaCEMISAM\CajaCEMISAM\obj\x86\Debug\CajaCEMISAM.application
